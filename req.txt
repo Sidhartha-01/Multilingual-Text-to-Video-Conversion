@@ -1,0 +1,8 @@
+pytextrank
+spacy
+requests
+openpyxl
+pygoogle_image
+moviepy
+gtts
+pyttsx3
