@@ -33,6 +33,8 @@ A Python script to generate a video from the given Press Information Bureau (PIB
 
 **REFFERED OPEN SOURCE CODE(Wav2Lip)**
 1. https://github.com/ajay-sainy/Wav2Lip-GFPGAN
+2. https://github.com/Rudrabha/Wav2Lip
+3. https://github.com/TencentARC/GFPGAN
 
 
 
