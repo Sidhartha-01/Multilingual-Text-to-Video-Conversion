@@ -31,5 +31,8 @@ A Python script to generate a video from the given Press Information Bureau (PIB
    GENERATED VIDEO:
    https://github.com/Sidhartha-01/Multilingual-Text-to-Video-Conversion/assets/129527324/5b42583d-59a5-4bae-a19b-1bfe30f9ca93
 
+**REFFERED OPEN SOURCE CODE(Wav2Lip)**
+1. https://github.com/ajay-sainy/Wav2Lip-GFPGAN
+
 
 
