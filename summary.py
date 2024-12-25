@@ -1,7 +1,7 @@
 import google.generativeai as genai
 
 def summary_func(finaltext):
-  genai.configure(api_key="AIzaSyALs5U3G39wEo-SyCuLFv-fEEWQmNkf6Pg")
+  genai.configure(api_key="***")
 
   generation_config = {
     "temperature": 1,
